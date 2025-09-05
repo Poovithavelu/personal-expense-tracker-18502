@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-expense-tracker-18502/expense_tracker_backend"
+}
